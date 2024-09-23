@@ -34,9 +34,16 @@ nasa,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 bonappetite,https://bonappetit-samsung.amagi.tv/playlist.m3u8
 food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 weather, http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
+tastemade,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8#2c884f42e1db66b031af0c726f384a6c3782293cca2f233df5c3a84f52aaa72b
 tastemadetravel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+travelxp,https://travelxp-travelxp-1-nz.samsung.wurl.tv/1200.m3u8
 journey,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8?ads.did=REPLACE&ads.ifa=REPLACE&ads.us_privacy=REPLACE&checkedby:iptvcat.com
 journey,https://d2nb1d8dzdm40o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ugl9mwcgz39n-prod/dist/samsungtv-canada/252/hls/master/playlist.m3u8
+journey,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8?ads.did=REPLACE&ads.ifa=REPLACE&ads.us_privacy=REPLACE&checkedby:iptvcat.com
+
+journey,https://5fc5d8ccf75447c98c821a2cfcfbee2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-291-JOURNYUS-OVATIONTV/mt/ovationtv/291/hls/master/playlist.m3u8
+
+journey,https://5fc5d8ccf75447c98c821a2cfcfbee2c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-291-JOURNYUS-OVATIONTV/a80af208-8781-4743-a3c9-70eb6d805837/5.m3u8
 xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
 wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
@@ -90,7 +97,8 @@ Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:7
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBOWest,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
 
-上海外语,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+上海外语(外网),http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+comedy（外网英字）,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=580e87ff497c73ba2f321dd3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=450&terminate=false&userId=
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8 
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
