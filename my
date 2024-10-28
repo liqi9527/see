@@ -5,8 +5,6 @@
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
-OndemandChina,https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
-RakutenViki,https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 rtdocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 euronews,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
@@ -21,12 +19,17 @@ newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 cnn,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+体育newDAZN,shttps://tv.iill.top/beesport/DAZN_Live_TV
 特朗普新闻,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 
 
-
+afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8#19b949725863820f722f53490c3df1398878df140656465ff62ea5212c4ccc28
+afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
+petcollect,https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+
 clarity4k,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 lovenature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 natgeo, http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
@@ -48,11 +51,14 @@ food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 tastemade,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8#2c884f42e1db66b031af0c726f384a6c3782293cca2f233df5c3a84f52aaa72b
 tastemadetravel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
-
+Discovery Life,https://tv.iill.top/beesport/Discovery_Life_Live_TV
+bbc America,http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+
+
 Smithsonian Channel,https://stream1.freetv.fun/smithsonian-channel-2.ctv
 Smithsonian Channel,https://stream1.freetv.fun/smithsonian-1.ctv		
 lol network,https://364656c7dbf24400867e98eed23cec82.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_LOLNetwork/playlist.m3u8
@@ -63,10 +69,11 @@ TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 gameshow_networkw,https://epg.pw/stream/6457ddcc11f8983874ba6801655786e481facc33e36d6e5b608a53833b7b70ad.m3u8
 world_fishing_network,https://epg.pw/stream/c3911f1e3f5b64e7b59c565e0a39b515c1ffb5f92ac7e39a76b9a6ba077c1958.m3u8
 redbull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Fight Network,https://tv.iill.top/beesport/Fight_Network_Live_TV
+wwe_network,https://epg.pw/stream/6ac6c9a90c1651a7d06c3a3ba0bc08c002b5b56507d678fa50060f47f8b55a1f.m3u8
 nba tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 fifa+,https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
 sny,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-wwe_network,https://epg.pw/stream/6ac6c9a90c1651a7d06c3a3ba0bc08c002b5b56507d678fa50060f47f8b55a1f.m3u8
 bally_sports_north,https://epg.pw/stream/d5a298294459eaa9021a9cc47b8b9ddd07b0280e9ad2bfb5504bdcdd4558611a.m3u8
 tsn_1,https://epg.pw/stream/6fccf79b112c4509bff5fad2979d5e0fda54c3769f156b68a295d5e4f4dd27b5.m3u8
 bally_sports_southeast,https://epg.pw/stream/9022ad20050a187549d0fc1b030f1ed236e1f05f7a6818118be1bd39f2e3435a.m3u8
@@ -80,6 +87,11 @@ Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
 Universal Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
 kid,https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 arewethere,https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+
+
+hbo1,https://tv.iill.top/beesport/HBO_Live_TV
+hbo2,https://tv.iill.top/beesport/HBO_2_Live_TV
+Cinemax West,https://tv.iill.top/beesport/Cinemax_West_Live_TV
 redbox,https://comedy-redbox.amagi.tv/playlist.m3u8
 redbox,https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 rakuten-comedy,https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
