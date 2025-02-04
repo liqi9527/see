@@ -1,15 +1,4 @@
 
-HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
-
-TVB明珠台,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
-
-美亚电影(粤1),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
-美亚电影(粤2),p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
-美亚电影(粤3),p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
-
-
-
-
 
 韩国电影1,https://stream1.freetv.fun/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 韩国电影1,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
@@ -18,7 +7,6 @@ TVB明珠台,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 明珠剧集台(北美),http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5300&tk=97475bb89d45
 
 rtdocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
