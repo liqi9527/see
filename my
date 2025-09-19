@@ -6,10 +6,17 @@
 韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+HBO Comedy,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
 moviesphereuk,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 rtdocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-euronews,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+euronews_pt,https://stream1.freetv.fun/93bc939929f39de202bcd25aa3421473f2d7613119df0b3f54548153606faa55.m3u8
+[HD]euronews_fr,https://stream1.freetv.fun/959ddd61c8e8966158c8af812a6a604aaa564780677a6fff065b8ba444894672.m3u8
+[HD]euronews,https://stream1.freetv.fun/d95d4a93a8b1bc849d4fdd1fc702889d84bff4590cd8b27c46f59ad3bbb9311a.m3u8
+[HD]euronews,https://stream1.freetv.fun/9486bdf7fc8d4bda0d54c15e540abe55714011d93055251ab754350e81f8bce0.m3u8
+[HD]euronews_de,https://stream1.freetv.fun/290faa7f0bb8745d2009a65b9d91e3a814619a5bb064d5e8104a179077a30bcc.m3u8
+[HD]euronews_english_(720p),https://stream1.freetv.fun/d5f5293760be62571be889ed0ba411876f7a73b3268496ad42e24de0b3b6b21d.m3u8
+[HD]euronews,https://stream1.freetv.fun/b00f204c7d099764704313da594ba6ee5db1db97ffdf96f5f0ca926722314bb7.m3u8
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 cgtn,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 cgtn,http://60.10.139.10:8801/hls/14/index.m3u8
@@ -31,16 +38,17 @@ failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playli
 petcollect,https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 
 lovenature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Love Nature（汉）,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
 
-xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8
+xplore,https://xplore-xumo.amagi.tv/playlist.m3u8
 wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 
 journey,https://5fc5d8ccf75447c98c821a2cfcfbee2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-291-JOURNYUS-OVATIONTV/mt/ovationtv/291/hls/master/playlist.m3u8
-journey,https://5fc5d8ccf75447c98c821a2cfcfbee2c.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-291-JOURNYUS-OVATIONTV/a80af208-8781-4743-a3c9-70eb6d805837/5.m3u8
 journey,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8?ads.did=REPLACE&ads.ifa=REPLACE&ads.us_privacy=REPLACE&checkedby:iptvcat.com
 journey,https://d2nb1d8dzdm40o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ugl9mwcgz39n-prod/dist/samsungtv-canada/252/hls/master/playlist.m3u8
 
 travelxp,https://travelxp-travelxp-1-nz.samsung.wurl.tv/1200.m3u8
+4K Travel,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 
 bonappetite,https://bonappetit-samsung.amagi.tv/playlist.m3u8
 food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -56,8 +64,6 @@ Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132
 lol network,https://364656c7dbf24400867e98eed23cec82.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_LOLNetwork/playlist.m3u8
 verylocal,https://lnc-khbs.tubi.video/playlist.m3u8
 historyhit,https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?WithCaption
-tedtalks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-TED Conference,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 gameshow_networkw,https://epg.pw/stream/6457ddcc11f8983874ba6801655786e481facc33e36d6e5b608a53833b7b70ad.m3u8
 world_fishing_network,https://epg.pw/stream/c3911f1e3f5b64e7b59c565e0a39b515c1ffb5f92ac7e39a76b9a6ba077c1958.m3u8
 redbull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
