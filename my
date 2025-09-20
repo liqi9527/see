@@ -20,7 +20,10 @@ KBS World HD,https://stream1.freetv.fun/kbs-world-1.ctv
 
 rtdocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
-euronew,https://youtu.be/pykpO5kQJ98
+,https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+
+euronews,https://youtu.be/pykpO5kQJ98
+euronews,https://livetv-fa.tubi.video/euronews2/euronews-en.m3u8
 
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 cgtn,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
