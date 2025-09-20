@@ -11,6 +11,7 @@ moviesphereuk,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 rtdocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
+euronew,https://youtu.be/pykpO5kQJ98
 
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 cgtn,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -44,8 +45,11 @@ failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playli
 
 petcollect,https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 
-lovenature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+love nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+love nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 Love Nature（汉）,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=true
+
+NatGeo Wild,http://panelguys.top:8080/txd7Fd/030774/57280
 
 xplore,https://xplore-xumo.amagi.tv/playlist.m3u8
 wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
