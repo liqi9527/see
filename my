@@ -49,6 +49,7 @@ cnn,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 
 体育newDAZN,shttps://tv.iill.top/beesport/DAZN_Live_TV
 
+台湾plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8#19b949725863820f722f53490c3df1398878df140656465ff62ea5212c4ccc28
 afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
@@ -75,14 +76,12 @@ journey,https://5fc5d8ccf75447c98c821a2cfcfbee2c.mediatailor.us-west-2.amazonaws
 journey,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8?ads.did=REPLACE&ads.ifa=REPLACE&ads.us_privacy=REPLACE&checkedby:iptvcat.com
 
 travelxp,https://travelxp-travelxp-1-nz.samsung.wurl.tv/1200.m3u8
-4K Travel,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
 
 bonappetite,https://bonappetit-samsung.amagi.tv/playlist.m3u8
 food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 tastemade,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8#2c884f42e1db66b031af0c726f384a6c3782293cca2f233df5c3a84f52aaa72b
 tastemadetravel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
-Discovery Life,https://tv.iill.top/beesport/Discovery_Life_Live_TV
 popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
