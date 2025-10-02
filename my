@@ -6,7 +6,6 @@
 韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-HBO Comedy,http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
 moviesphereuk,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 KBS World HD,https://stream1.freetv.fun/kbs-world-4.ctv 
@@ -20,7 +19,7 @@ KBS World HD,https://stream1.freetv.fun/kbs-world-1.ctv
 
 rtdocumentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
-,https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+euronews,https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 
 euronews,https://youtu.be/pykpO5kQJ98
 euronews,https://livetv-fa.tubi.video/euronews2/euronews-en.m3u8
@@ -34,7 +33,7 @@ Global News 国际,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-4
 
 RT News 国际,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8  
 
- GB News 国际 ,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8 
+GB News 国际 ,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8 
 
 CTV News Channel 国际,http://panelguys.top:8080/txd7Fd/030774/57350   
 
@@ -63,11 +62,9 @@ Love Nature（汉）,http://152.32.229.52:5050/4gtv-live208/index.m3u8?proxy=tru
 
 NatGeo Wild,http://panelguys.top:8080/txd7Fd/030774/57280
 NatGeo Wild,http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
-National Geographic Wild,http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 
 Animal Planet,http://212.102.60.231:80/Animal_Planet/index.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-National Geographic,http://212.102.60.231:80/National_Geographic/index.m3u8
 
 Travel Channel,http://212.102.60.231:80/Travel_Channel/index.m3u8
 xplore,https://xplore-xumo.amagi.tv/playlist.m3u8
