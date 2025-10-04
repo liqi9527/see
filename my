@@ -1,14 +1,24 @@
 
 
+韩国电影1,https://stream1.freetv.fun/fb55bfb45a0ccd52c3736f2cc95d9cd39d6684375440b822a786dd1c4ece3f33.m3u8
 韩国电影1,https://stream1.freetv.fun/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 韩国电影1,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 韩国电影2, https://stream1.freetv.fun/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 韩国电影2,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 hiya,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 movies now,https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-moviesphereuk,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
 RakutenViki,https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+hbo_comedy,https://stream1.freetv.fun/7f7e455db8081a829da921c2ae784bc190e6d1cb1c8353a682611d3fb6a2c9ff.ctv
+moviesphereuk,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+mytimemovie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
+MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+
+星爷国外, https://www.goodiptv.club/douyu/508118
+星爷国外,http://i.iill.top:12838/douyu/508118
+星爷国外,https://live.iill.top/douyu/508118
+
+cctv6电影频道,http://i.iill.top:12838/douyin/cctv6media.
 
 KBS World HD,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS World HD,https://stream1.freetv.fun/kbs-world-4.ctv 
@@ -53,6 +63,8 @@ cnn,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 体育newDAZN,shttps://tv.iill.top/beesport/DAZN_Live_TV
 
 台湾plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+cgtn-doc,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
 
 afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8#19b949725863820f722f53490c3df1398878df140656465ff62ea5212c4ccc28
 afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
@@ -87,6 +99,10 @@ food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 tastemade,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8#2c884f42e1db66b031af0c726f384a6c3782293cca2f233df5c3a84f52aaa72b
 tastemadetravel,https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
+fightsport,http://cnlive.org/channel/n799bda5e/index.m3u8 
+
+historyhit,https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?WithCaption
+
 popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
@@ -94,7 +110,6 @@ Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132
 	
 lol network,https://364656c7dbf24400867e98eed23cec82.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_LOLNetwork/playlist.m3u8
 verylocal,https://lnc-khbs.tubi.video/playlist.m3u8
-historyhit,https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?WithCaption
 gameshow_networkw,https://epg.pw/stream/6457ddcc11f8983874ba6801655786e481facc33e36d6e5b608a53833b7b70ad.m3u8
 world_fishing_network,https://epg.pw/stream/c3911f1e3f5b64e7b59c565e0a39b515c1ffb5f92ac7e39a76b9a6ba077c1958.m3u8
 redbull,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -125,8 +140,7 @@ redbox,https://comedy-redbox.amagi.tv/playlist.m3u8
 redbox,https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 rakuten-comedy,https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
 favoritemovie,https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8
-mytimemovie,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+
 me tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
 we tv, http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
 A&E, http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
