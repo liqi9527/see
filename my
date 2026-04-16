@@ -13,6 +13,8 @@ cgtn,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 cgtn,http://60.10.139.10:8801/hls/14/index.m3u8
 cgtn,https://pi.0472.org/tv/mzt.php?auth=2309081833
 
+ cgtn-doc,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
 Global News 国际,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8 
 
 RT News 国际,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8  
@@ -35,9 +37,12 @@ cnn,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 
 
 
+alwaysfun,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8#19b949725863820f722f53490c3df1398878df140656465ff62ea5212c4ccc28
+alwaysfun,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8#19b949725863820f722f53490c3df1398878df140656465ff62ea5212c4ccc28
-afv family,https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+alwaysfun,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd/variant.m3u8?x-plex-token=mn5o5VyCR_zd1D7wzdPS&x-plex-advertising-identifier=&x-plex-client-identifier=aecca497-93aa-4a43-8308-37efeaea9209&x-plex-playback-id=p_ebb2dae5-9eff-421b-becd-ebabb736437c&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Edge&x-plex-platform-version=147.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1776306726&url=2207f89c1831f231089a9feea29540ed-1c9c2ff0904c207ec021a99ea2adff02475d2257a45ae31fe4f9c4c196814057a06f722db5fdced491a26895cf989c731e56d0a0088ea91106c539fe41963e6e169a656e52b4d12cdd567bc8024cf13fbfd89bc52088ed838368995b5ede85115e9465561df658873e856d9b62639dfcaf86ea044b53ca94b1f8cbc342e91dce6a8e199701c6c5c5ed35bc287a492a10b66ec2fa2a17559d4e6a585e484e8fbffa5e43041de4264b92a9b9da39274f116877d0f61bc8837de3cf0d891b7c56b1c4c5d2a891dfac0dd382fec53b2b085f  
+
+
 failurearmy（重点）,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
 petcollect,https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
@@ -50,7 +55,10 @@ NatGeo Wild,http://panelguys.top:8080/txd7Fd/030774/57280
 NatGeo Wild,http://212.102.60.231:80/Nat_Geo_Wild/index.m3u8
 
 Animal Planet,http://212.102.60.231:80/Animal_Planet/index.m3u8
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+wildearth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+wildearth,https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8  
+wildearth,https://wildearth-xumo.amagi.tv/master.m3u8 
 
 xplore,https://xplore-xumo.amagi.tv/playlist.m3u8
 wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
@@ -63,7 +71,6 @@ journey,https://d2nb1d8dzdm40o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c
 journey,https://5fc5d8ccf75447c98c821a2cfcfbee2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-291-JOURNYUS-OVATIONTV/mt/ovationtv/291/hls/master/playlist.m3u8
 journey,https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8?ads.did=REPLACE&ads.ifa=REPLACE&ads.us_privacy=REPLACE&checkedby:iptvcat.com
 
-
 bonappetite,https://bonappetit-samsung.amagi.tv/playlist.m3u8
 food,https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 tastemade,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8#2c884f42e1db66b031af0c726f384a6c3782293cca2f233df5c3a84f52aaa72b
@@ -75,6 +82,7 @@ historyhit,https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAA
 
 popstar,https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
 Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+
 Today Allday,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 
 	
